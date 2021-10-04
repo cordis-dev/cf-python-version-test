@@ -1,4 +1,4 @@
 if (!!test)
 {
-  
+   // non-empty
 }
